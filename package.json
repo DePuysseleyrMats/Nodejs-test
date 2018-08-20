@@ -12,10 +12,13 @@
     "mongodb": "^2.1.16",
     "morgan": "^1.7.0",
     "object-assign":"4.1.0"
-},
+  },
   "engine": {
     "node": "*",
     "npm": "*"
+  },
+  "scripts": {
+    "start": "node hello.js",
   },
   "repository": {
     "type": "git",
